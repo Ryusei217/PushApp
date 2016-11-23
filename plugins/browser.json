@@ -12,6 +12,9 @@
         },
         "cordova-plugin-fcm": {
             "PACKAGE_NAME": "com.iqdevpro.PushApp"
+        },
+        "cordova-plugin-fcm-config": {
+            "PACKAGE_NAME": "com.iqdev.push"
         }
     },
     "dependent_plugins": {}

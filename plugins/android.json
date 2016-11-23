@@ -9,6 +9,9 @@
     "installed_plugins": {
         "cordova-plugin-fcm": {
             "PACKAGE_NAME": "io.cordova.hellocordova"
+        },
+        "cordova-plugin-fcm-config": {
+            "PACKAGE_NAME": "com.iqdev.push"
         }
     },
     "dependent_plugins": {}
